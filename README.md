@@ -13,8 +13,11 @@ Exemplo endpoint<br>
 <code>/birds</code><br>
 Exemplo endpoint<br>
 <code>/birds/sobre</code><br>
-Exemplo endpoint
-<br>
+Exemplo endpoint<br>
+<code>/images/perfil.jpg</code><br>
+Exemplo endpoint imagem<br>
+<code>/json/site.json</code><br>
+Exemplo endpoint json estático<br>
 <h1>Como utilizar localmente</h1>
 <br>
 Se tiver o git instalado, basta fazer o clone do repositório.<br>
