@@ -1,7 +1,7 @@
 var express = require('express')
 var router = express.Router()
 
-var UrlVideo = require('../Models/UrlVideo')
+var UrlVideo = require('../models/UrlVideo')
 
 router.get('/', async (req, res) => {
   try {
