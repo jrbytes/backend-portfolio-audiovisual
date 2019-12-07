@@ -1,8 +1,8 @@
 var express = require('express')
 var router = express.Router()
 
-var birds = require('./Controller/birds')
-var home = require('./Controller/home')
+var birds = require('./controller/birds')
+var home = require('./controller/home')
 
 const dateFromTimestamp = require('date-from-timestamp')
 
