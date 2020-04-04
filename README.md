@@ -1,25 +1,25 @@
 # backend-portfolio-audiovisual
-<br>
-Portfolio Audiovisual Backend :coffee: :pizza:
-<br>
-<i>API REST</i>
-<br>
-<h1>Endpoints</h1>
-<br>
-<code>/</code><br>
-Retorna os links dos vídeos para utilização na página inicial do Portfólio Audiovisual<br>
-<code>/sobre</code><br>
-Exemplo endpoint<br>
-<code>/birds</code><br>
-Exemplo endpoint<br>
-<code>/birds/sobre</code><br>
-Exemplo endpoint<br>
-<code>/images/perfil.jpg</code><br>
-Exemplo endpoint imagem<br>
-<code>/json/site.json</code><br>
-Exemplo endpoint json estático<br>
-<h1>Como utilizar localmente</h1>
-<br>
-Se tiver o git instalado, basta fazer o clone do repositório.<br>
-É necessário ter também o NodeJS instalado no computador.<br>
-Depois do clone, só falta instalar os módulos da aplicação com <strong>npm install</strong> :: o node instalará automaticamente todos os repositórios que está em "dependencies": {} e "devDependencies": {} dentro do arquivo <code>package.json</code>.
+
+Portfolio Audiovisual Backend :coffee: :pizza:  
+
+*API REST*
+
+# Endpoints
+
+`/`  
+Retorna os links dos vídeos para utilização na página inicial do Portfólio Audiovisual  
+
+`/sobre`  
+Exemplo endpoint  
+
+`/birds`  
+Exemplo endpoint  
+
+`/birds/sobre`  
+Exemplo endpoint  
+
+`/images/perfil.jpg`  
+Exemplo endpoint imagem  
+
+`/json/site.json`  
+Exemplo endpoint json estático
